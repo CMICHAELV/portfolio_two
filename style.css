@@ -1,0 +1,26 @@
+.first{
+color: blueviolet;
+background-color: black;
+font-size: 50px;
+text-align: center;
+}
+
+div {
+    /* text-align: center; */
+}
+
+#anything {
+    color: aqua;
+}
+.child{
+    color: brown;
+}
+p {
+    color: aquamarine;
+}
+.mike{
+    color: brown;
+    width: 80px;
+    height: 90px;
+    background-color: blue;
+}
